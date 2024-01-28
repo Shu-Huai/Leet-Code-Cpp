@@ -8,7 +8,7 @@
 
 返回  **合并后的字符串**  。
 
- **示例 1：** 
+**示例 1：**
 
 ```
 输入：word1 = "abc", word2 = "pqr"
@@ -19,7 +19,7 @@ word2：    p   q   r
 合并后：  a p b q c r
 ```
 
- **示例 2：** 
+**示例 2：**
 
 ```
 输入：word1 = "ab", word2 = "pqrs"
@@ -30,7 +30,7 @@ word2：    p   q   r   s
 合并后：  a p b q   r   s
 ```
 
- **示例 3：** 
+**示例 3：**
 
 ```
 输入：word1 = "abcd", word2 = "pq"
@@ -41,14 +41,12 @@ word2：    p   q
 合并后：  a p b q c   d
 ```
 
- **提示：** 
+**提示：**
 
-*   `1 <= word1.length, word2.length <= 100`
-*   `word1` 和 `word2` 由小写英文字母组成
+* `1 <= word1.length, word2.length <= 100`
+* `word1` 和 `word2` 由小写英文字母组成
 
 ---
-
-
 
 ```C++
 ```

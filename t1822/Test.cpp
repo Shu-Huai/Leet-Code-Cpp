@@ -4,7 +4,7 @@
 
 using namespace std;
 
-class T283 {
+class T1822 {
 public:
     static void test() {
         string input;
@@ -19,11 +19,8 @@ public:
                 iss >> temp;
                 num.push_back(temp);
             } while (!iss.eof());
-            Solution283::moveZeroes(num);
-            for (int i: num) {
-                cout << i << " ";
-            }
-            cout << endl;
+            int result = Solution1822::arraySign(num);
+            cout << result << endl;
         }
     }
 };
