@@ -10,5 +10,8 @@
 #include "../t709/Test.cpp"
 #include "../t58/Test.cpp"
 #include "../t1822/Test.cpp"
+#include "../t66/Test.cpp"
+#include "../t1502/Test.cpp"
+#include "../t896//Test.cpp"
 
 #endif
