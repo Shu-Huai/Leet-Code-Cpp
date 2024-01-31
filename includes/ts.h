@@ -15,6 +15,9 @@
 #include "../t896/Test.cpp"
 #include "../t13/Test.cpp"
 #include "../t682/Test.cpp"
-#include "../t657//Test.cpp"
+#include "../t657/Test.cpp"
+#include "../t1672/Test.cpp"
+#include "../t73/Test.cpp"
+#include "../t1572/Test.cpp"
 
 #endif
