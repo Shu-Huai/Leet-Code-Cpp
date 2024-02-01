@@ -19,5 +19,8 @@
 #include "../t1672/Test.cpp"
 #include "../t73/Test.cpp"
 #include "../t1572/Test.cpp"
+#include "../t1275/Test.cpp"
+#include "../t1041/Test.cpp"
+#include "../t1523/Test.cpp"
 
 #endif
