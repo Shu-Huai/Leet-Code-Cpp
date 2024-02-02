@@ -10,7 +10,7 @@
 
 **示例 1：**
 
-![](https://assets.leetcode.com/uploads/2020/08/14/sample_1911.png)
+![](http://public.file.lvshuhuai.cn/图床/sample_1911.png)
 
 ```
 输入：mat = [[1,2,3],
