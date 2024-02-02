@@ -22,5 +22,8 @@
 #include "../t1275/Test.cpp"
 #include "../t1041/Test.cpp"
 #include "../t1523/Test.cpp"
+#include "../t50/Test.cpp"
+#include "../t1491/Test.cpp"
+#include "../t2/Test.cpp"
 
 #endif

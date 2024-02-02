@@ -34,7 +34,10 @@ int main() {
                 {1275, &T1275::test},
                 {1523, &T1523::test},
                 {73,   &T73::test},
+                {50,   &T50::test},
+                {1491, &T1491::test},
                 {1041, &T1041::test},
+                {2,    &T2::test},
                 {682,  &T682::test}
         };
         auto it = functions.find(i);

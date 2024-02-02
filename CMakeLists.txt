@@ -8,6 +8,7 @@ add_executable(Leet-Code main.cpp
         includes/ts.h
         templates/TestTemplates.cpp
         utils/Printer.h
+        t2/ListNode.h
 )
 add_library(
         Problems STATIC
